@@ -1,8 +1,6 @@
 import { useEffect, useState } from "react";
 
-// import { ReactComponent as LockDotsIcon } from "../../../../../assets/icons/icon-lock-dots.svg";
-// import { ReactComponent as LockIcon } from "../../../../../assets/icons/icon-lock.svg";
-// import { ReactComponent as InfoCircleIcon } from "../../../../../assets/icons/icon-info-circle.svg";
+
 import { yupResolver } from "@hookform/resolvers/yup";
 import * as yup from "yup";
 import { useForm } from "react-hook-form";

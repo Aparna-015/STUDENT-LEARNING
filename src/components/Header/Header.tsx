@@ -29,7 +29,6 @@ const Header = () => {
     <header>
       <nav className="navbar navbar-expand-lg bg-primary-2 ">
         <div className="container-lg">
-          {/* logo + hamburger menu */}
           <div className="d-flex align-items-center">
             <button
               className="navbar-toggler me-2"
